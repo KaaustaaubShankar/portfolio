@@ -1,200 +1,228 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Kaaustaaub Shankar",
+    "label": "Computer Science Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "shankaks@mail.uc.edu",
+    "phone": "(502) 309-8008",
+    "url": "https://github.com/KaaustaaubShankar",
+    "summary": "Highly motivated Computer Science student with experience in full-stack web development, AI research, and team leadership, seeking opportunities to apply technical skills and drive innovation.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "",
+      "city": "Cincinnati",
       "countryCode": "US",
-      "region": "California"
+      "region": "OH"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "Kaaustaaub Shankar",
+        "url": "https://linkedin.com"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Venture Research Studio",
+      "position": "Technical Analyst",
+      "url": "",
+      "startDate": "2024-12-01",
+      "endDate": "Present",
+      "summary": "Building an AI agent to automate market research, identifying comparables, patents, and niches resulting in 3x improvement. ",
+      "highlights": [
+        "Using Serper.dev, LangChain, Gemini, and OpenAI to create web scraping agents, delivering real-time market insights "
+      ]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Bearcat Ventures",
+      "position": "General Partner",
+      "url": "",
+      "startDate": "2024-01-01",
+      "endDate": "Present",
+      "summary": "Managing a $1M Evergreen fund and invested in 3 pre-seed and seed startups. ",
+      "highlights": []
+    },
+    {
+      "name": "Motz Engineering",
+      "position": "Software Developer Coop",
+      "url": "",
+      "startDate": "2024-01-01",
+      "endDate": "2024-07-01",
+      "summary": "Leading the development of a full-stack web application for MEP professionals using Figma, React.js, Flask, and MySQL. ",
+      "highlights": [
+        "Collaborating with upper management to understand industry needs and ensure the application's alignment with requirements. ",
+        "Transitioning databases to cloud infrastructure to improve scalability and performance. ",
+        "Developing a C# WinForms application with advanced functionalities, including AI integration, to enhance user experience and workflow efficiency. ",
+        "Created a Billing Forecast pipeline that leverage industry knowledge to improve forecasting accuracy, achieving a projected error reduction of approximately 15%. "
+      ]
+    },
+    {
+      "name": "University of Cincinnati",
+      "position": "Student Researcher under Dr. Kelly Cohen’s AI Bio Lab",
+      "url": "",
+      "startDate": "2023-05-01",
+      "endDate": "Present",
+      "summary": "Conducted research funded by John Deere for Spatial-Temporal Decision Making in Unreal Engine using Genetic Fuzzy Systems. ",
+      "highlights": [
+        "Created PyGame & Genetic Fuzzy System for AI training with Backtracking. ",
+        "Presented industry driven research findings to top-level management at companies, including Kinetic Vision, Proctor & Gamble, and Siemens. ",
+        "Organized North American Fuzzy Information Processing Society (NAFIPS) conferences with 60 attendees, ensuring a seamless experience. ",
+        "Currently working on Fuzzy- Random Rapidly Evolving Trees algorithm for Robotic Survey with results showing an improvement of 743% in search time. ",
+        "Paper linked at https://arxiv.org/abs/2504.17979. "
+      ]
+    },
+    {
+      "name": "University of Cincinnati Foundation",
+      "position": "Digital Philanthropy Team Lead",
+      "url": "",
+      "startDate": "2023-01-01",
+      "endDate": "Present",
+      "summary": "Achieved $22,932.76 in contributions to the University of Cincinnati Foundation through securing 93 commitments via pledges and credit card gifts. ",
+      "highlights": [
+        "Directly managed shifts involving 20+ associates to ensure daily operations ran smoothly and goals were met. ",
+        "Provided mentorship and assistance to associates through coaching to contribute team success. "
+      ]
     }
   ],
+  "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "University of Cincinnati",
+      "location": "CINCINNATI, OH",
+      "url": "",
+      "area": "Computer Science",
+      "studyType": "Master of Engineering",
+      "startDate": "",
+      "endDate": "2026-05-01",
+      "score": "3.9",
+      "courses": [],
+      "highlights": "ACCEND Dual Degree Program "
+    },
+    {
+      "institution": "University of Cincinnati",
+      "location": "CINCINNATI, OH",
+      "url": "",
+      "area": "Computer Science and Mathematics",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2026-05-01",
+      "score": "4.0",
+      "courses": [],
+      "highlights": "Activities and Societies: Innovation Challenge, Bearcat Ventures Deal Flow, Tamil Student Association "
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "ASTRO Scholar",
+      "date": "Aug 2024 – Present",
+      "awarder": "",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Mantei/Mae Scholar",
+      "date": "Mar 2024 – Present",
+      "awarder": "",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "International Outreach Scholarship",
+      "date": "Aug 2022-Present",
+      "awarder": "",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Innovation Challenge Scholarship",
+      "date": "Aug 2023",
+      "awarder": "",
+      "url": "",
+      "summary": ""
     }
   ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
+  "certificates": [],
+  "publications": [],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Programming",
+      "level": "",
+      "icon": "",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "Java",
+        "C#",
+        "SQL",
+        ".NET",
+        "React.js",
+        "Pandas",
+        "NumPy",
+        "BERT",
+        "Llama",
+        "OpenAI",
+        "LangChain",
+        "Microsoft Azure",
+        "Google Cloud",
+        "Docker",
+        "PyTorch",
+        "Robotics",
+        "Machine Learning",
+        "LangChain",
+        "C/C++",
+        "Flutter",
+        "Flask in Python",
+        "R"
       ]
     }
   ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "WhiteBox",
+      "summary": "Conceptualized WhiteBox, a tool enhancing LLM credibility via Hybrid RAG, and led the team to first place. ",
+      "highlights": [
+        "Fine-tuned Llama-3.1-uncensored to extract and visualize entity relationships from medical textbooks. ",
+        "Developing a custom Hybrid RAG pipeline using Langchain, Neo4j, and Cypher queries to integrate structured data with LLM outputs. ",
+        "Collaborating with academics, industry leaders, and Google engineers to improve the tool’s performance and utility. "
+      ],
+      "startDate": "2024-09-01",
+      "endDate": "Present",
+      "url": ""
+    },
+    {
+      "name": "Memento",
+      "summary": "Co-led a team to third place at RevolutionUC 2024 with the app Memento for Alzheimer's patients and doctors. ",
+      "highlights": [
+        "Won four awards, including 'Third Place', Best Social Impact Hack, Best Digital Solution to Improve the Clinical Trial Process (Medpace), and Best Use of Postgres (Tembo). ",
+        "Integrated Tembo's AI Stack with custom LLM technology to create an assistant for patients and provide treatment data to doctors/clinicians. "
+      ],
+      "startDate": "2024-02-01",
+      "endDate": "2024-02-01",
+      "url": ""
+    },
+    {
+      "name": "Buycott",
+      "summary": "Co-led a team to first place at MakeUC 2023 to design Buycott, an app focused on empowering users to voice opinions on issues such as the Israel-Palestine Conflict. ",
+      "highlights": [
+        "Garnered four accolades, including 'Best Hack', 'Best Social Issues Hack,' 'Best Use of Google Cloud,' and a 'Wolfram Research Award\". ",
+        "Developed a feature-rich app using Flutter, supporting barcode scanning, data processing, and sentiment analysis through Google Cloud within a 25-hour sprint."
+      ],
+      "startDate": "2023-11-01",
+      "endDate": "2023-11-01",
+      "url": ""
+    },
+    {
+      "name": "Visualizing the Movements of Kuka 7 Node Robot Arm",
+      "summary": "Co-led a team to first place in Kinetic Vision's hackathon challenge to visualize the movement of a Kuka 7 Robot Arm. ",
+      "highlights": [
+        "Developed a Unity, C#, and Python-based visualization allowing users to control a robot arm directly or utilize dataset-driven commands, managing a dataset with over 18k entries."
+      ],
+      "startDate": "2023-02-01",
+      "endDate": "2023-02-01",
+      "url": ""
     }
   ]
 }
